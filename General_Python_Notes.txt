@@ -1,0 +1,29 @@
+1)	Install Python from Online
+C:\Users\deepak.tangeeda\AppData\Local\Programs\Python\Python36-32
+This will install Python Shell, Python IDLE  and Python pip. 
+This is python interpreter (CPython written in C). CPython is implemention of Python
+
+Python Package Index (pyPi) has 130,000 libraries.
+Python Enhancement Proposal (PEP) to propose enhancements to Python.
+
+
+2)	Install PyCharm from jetBrains. C:\Users\deepak.tangeeda\PycharmProjects>
+
+3)	Code Projects at C:\Users\deepak.tangeeda\PythonProjects\KodeForKids
+
+Run .py files from command prompt. Command : python filename.py
+4)	Run pip install flask. Flask contains web server.
+
+Import site
+Site.getsitepackages()
+All packages are stored in 
+
+C:\Users\deepak.tangeeda\AppData\Local\python
+C:\Users\deepak.tangeeda\AppData\Local\Programs\Python\Python36-32
+C:\Users\deepak.tangeeda\AppData\Local\Programs\Python\Python36-32\Lib\site-packages
+
+pip install requests
+Upgrade pip: python -m pip install --upgrade pip
+http://127.0.0.1:5000/
+
+Python packages, build tools and unit tests. No compilation needed. It’s an interpreted language.
